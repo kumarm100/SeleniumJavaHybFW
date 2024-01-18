@@ -12,6 +12,8 @@ import com.sauceDemo.base.TestBase;
 import com.sauceDemo.pages.LoginPage;
 import com.sauceDemo.pages.ProductPage;
 
+// testing
+
 public class LoginTest extends TestBase {
 	public WebDriver driver;
 	LoginPage lp;
